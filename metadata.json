@@ -1,0 +1,7 @@
+{
+  "name": "CleanOps Admin Dashboard",
+  "description": "Administrative Web Dashboard for professional cleaning service management, operations dispatching, customer support, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
